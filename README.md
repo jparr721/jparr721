@@ -1,7 +1,7 @@
 # Jarred
 I do security work. I'm currently the co-founder and CTO of [Sythe Labs](https://sythelabs.com).
 
-Prev. Bank of America Red Team, Yale PhD program, recovering physicist
+Prev. Bank of America Red Team, Yale PhD program. Recovering physicist
 
 ## Security Findings
 - Buffer Overflow in Mas Bandwidth's Serialize Library [link](https://github.com/mas-bandwidth/serialize/pull/9)
